@@ -125,3 +125,9 @@ This project introduces functions that calculate the area and perimeter of a cir
 - Rectangle: P = 2a + 2b
 - Square: P = 4a
 - Triangle: P = a + b + c
+
+#Commit history
+* 70edc17 (origin/new_features_408175) Исправлена ошибка
+* deeb837 Добавлен новый файл
+* d078c8d L-03: Docs added
+* 8ba9aeb L-03: Circle and square added
